@@ -5,3 +5,5 @@ It supports :
 - Checked as done
 - Filter: All / Active / Completed
 - LocalStorage saving
+## Live Demo
+Click Here to view demo (https://amirdusk-py.github.io/simple-todo-list-/)
